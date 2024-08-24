@@ -1,0 +1,45 @@
+[submodule "musical-preferences-moscow-st-petersburg"]
+	path = musical-preferences-moscow-st-petersburg
+	url = https://github.com/sxdisbr/musical-preferences-moscow-st-petersburg
+[submodule "data_games_research"]
+	path = data_games_research
+	url = https://github.com/sxdisbr/data_games_research
+[submodule "mobile_rate_analysis"]
+	path = mobile_rate_analysis
+	url = https://github.com/sxdisbr/mobile_rate_analysis
+[submodule "mobile_plan_recommendations"]
+	path = mobile_plan_recommendations
+	url = https://github.com/sxdisbr/mobile_plans_recommendations
+[submodule "research_of_sales_apartments"]
+	path = research_of_sales_apartments
+	url = https://github.com/sxdisbr/research_of_sales_apartments
+[submodule "research_on_borrowers"]
+	path = research_on_borrowers
+	url = https://github.com/sxdisbr/research_on_borrowers
+[submodule "customer_exit_prediction_model"]
+	path = customer_exit_prediction_model
+	url = https://github.com/sxdisbr/customer_exit_prediction_model
+[submodule "model_location_oilfield"]
+	path = model_location_oilfield
+	url = https://github.com/sxdisbr/model_location_oilfield
+[submodule "recovery_gold"]
+	path = recovery_gold
+	url = https://github.com/sxdisbr/recovery_gold
+[submodule "data_bank_protection"]
+	path = data_bank_protection
+	url = https://github.com/sxdisbr/data_bank_protection
+[submodule "auto_price_prediction"]
+	path = auto_price_prediction
+	url = https://github.com/sxdisbr/auto_price_prediction
+[submodule "taxi_order_forecasting"]
+	path = taxi_order_forecasting
+	url = https://github.com/sxdisbr/taxi_orders_forecasting
+[submodule "toxic_comment_model"]
+	path = toxic_comment_model
+	url = https://github.com/sxdisbr/toxic_comments_model
+[submodule "model_determine_age"]
+	path = model_determine_age
+	url = https://github.com/sxdisbr/model_determine_age
+[submodule "predicting_temperature_steel"]
+	path = predicting_temperature_steel
+	url = https://github.com/sxdisbr/predicting_temperature_steel
